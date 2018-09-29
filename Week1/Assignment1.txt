@@ -1,0 +1,22 @@
+The source of the infographic: https://www.reddit.com/r/dataisugly/comments/88b4gd/what_are_these_axes/
+The graph decoders mainly include the inhabitants of the area, environmentalists and meteorologists.
+
+=>The inhabitants of the area are very much aware of the changing temperature conditions over a year so as to bring neccessary lifestyle changes according to them.
+=>The environmentalists need such data for their research work to find patterns in changing climate and environment of the place.
+=>The meteorologists make use of such graph to study the atmosphere, weather forecasts and to understand the consequence of climate of a specific area and its people.
+=>The decoders may also include journalists(weather reporters) and government. 
+
+
+1) It took me quite a time to figure out what the graph wants to actually convey. The temperatures mentioned over the lines are quite deceptive to the audience. The top four lines refer to temperature changes over a year and the last line conveys the changes in average precipitation. Though using the concept of line graph there is no use of y-axis. 
+Considering the average high and average low line graphs, the graphs are almost the same with very different values.
+For average high and record high graphs the peak temperatures are 82 and 104 but 82 looks more extreme than 104 in this representation. Same is the case with 22 and -30. They seem to be at the same level. 
+On seeing this graph the main questions which arise are what the slope(the changes) wants to refer, what the axes signify, how come in Record Low graph -30 and -17 are at the same level, why there is so much difference between 22 and 65 in Average Low and such less difference between -30 and 50 in Record Low, how can a single graph axes show changes in degrees and inches.
+
+2)The main misleading mechanism used is "using graphic forms in inappropriate ways (distorting the data)". This mechanism is used in for showing variations in temperature.
+Second misleading mechanism which is used is "displaying too much data to obscure reality". The objective of the graph was to show the monthly comparisions of temperatures.
+
+3)"using graphic forms in inappropriate ways (distorting the data)"
+The encoder made use of the concept of line graphs to display the changes in temperatures over a year. The misleading factor was to show the variations of the temperature which is not constant in the given graph. The slope of the graph is quite deceptive as is it does not show equal variations. When a decoder looks at Average High line, he might notice quite a difference between the temperatures(difference of 46 degrees) of Jan and Jul but when he looks at the Record High line he notices not much difference between the temperatures(difference of 32 degrees) of Jan and Jul. Thus the representations are misleading.
+
+"displaying too much data to obscure reality"
+The conclusion of the graph states that "July is on average the warmest month" and "Jan being the coolest one". This is the main objective of the graph which it wants to convey to the decoders. But by just looking at the graph makes it difficult for the decoders to decode such conclusion. There are so many lines with different variations and different slopes conveying very different meaning that it baffles the readers.
